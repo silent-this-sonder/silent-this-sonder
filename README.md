@@ -20,3 +20,6 @@ My other languages are:
 - HTML
 - CSS (please no😭)
 - JavaScript (still learning, it's pretty cool)
+
+## Links
+<a href="https://scratch.mit.edu/users/TeenySpoon/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Scratch_S.svg/64px-Scratch_S.svg.png"></a>
