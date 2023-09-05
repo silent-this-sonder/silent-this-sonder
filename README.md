@@ -30,4 +30,4 @@
 <p>I have a lot of project ideas.  Right now, I'm working on an Inform 7 text adventure and a Scratch project.  However, I also have plans for a pygame thing.</p>
 
 <h2>Links</h2>
-<a href="https://scratch.mit.edu/users/TeenySpoon/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Scratch_S.svg/64px-Scratch_S.svg.png"></a>
+<a href="https://scratch.mit.edu/users/TeenyTea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Scratch_S.svg/64px-Scratch_S.svg.png"></a>
