@@ -21,5 +21,8 @@ My other languages are:
 - CSS (please no😭)
 - JavaScript (still learning, it's pretty cool)
 
+## What I'm Working On
+I have a lot of project ideas.  Right now, I'm working on an Inform 7 text adventure and a Scratch project.  However, I also have plans for a pygame thing.
+
 ## Links
 <a href="https://scratch.mit.edu/users/TeenySpoon/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Scratch_S.svg/64px-Scratch_S.svg.png"></a>
