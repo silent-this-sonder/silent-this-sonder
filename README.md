@@ -3,10 +3,11 @@
 
 <p>I am a:</p>
 <ul>
-<li>girl</li>
-<li>coder</li>
-<li>artist</li>
-<li>writer</li>
+<li>👧girl</li>
+<li>✝️Roman Catholic</li>
+<li>💻coder</li>
+<li>🖌️artist</li>
+<li>🖋️writer</li>
 <li>🎮amateur text adventurer</li>
 <li>😆owner of outdated books</li>
 </ul>
