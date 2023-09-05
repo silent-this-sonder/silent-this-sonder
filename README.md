@@ -15,6 +15,7 @@ I "know" a variety of languages, but my oldest is Python, which I am most comfor
 I love OOP, recursion, and anything cool.
 
 My other languages are:
+- Scratch, my other favorite place to hang out
 - Inform 7, yes it's a rather unconventional language but it's got so many nuances and I like it (so don't question it😠)
 - HTML
 - CSS (please no😭)
