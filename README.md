@@ -1,3 +1,4 @@
+<img src="https://avatars.githubusercontent.com/u/143755460?v=4">
 <h1>About Me</h1>
 <p>Hi! I'm @silent-this-sonder, and welcome to my profile 😄</p>
 
