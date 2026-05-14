@@ -12,7 +12,8 @@ Welcome to my profile. I am **silent-this-sonder**, a slightly unhinged girl and
 - musician (composer, lyricist, pianist, mallet player, very amateur singer)
 
 ## 🌻Programming
-
-Python is the language I have fallen in love with ever since I started programming about a decade ago, but I love learning new programming languges as well.
-
-[![My Skills](https://skillicons.dev/icons?i=py,java,gamemakerstudio,js,html)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,gamemakerstudio,js,html" />
+  </a>
+</p>
