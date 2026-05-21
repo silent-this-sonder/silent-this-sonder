@@ -17,3 +17,6 @@ Welcome to my profile. I am **silent-this-sonder**, a slightly unhinged girl and
     <img src="https://skillicons.dev/icons?i=py,java,gamemakerstudio,js,html" />
   </a>
 </p>
+
+## 🌻Contact
+📧: silent-this-sonder@outlook.com
