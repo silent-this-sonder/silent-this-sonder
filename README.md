@@ -14,7 +14,7 @@ Welcome to my profile. I am **silent-this-sonder**, a slightly unhinged girl and
 ## 🌻Programming
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,gamemakerstudio,js,html" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,java,godot" />
   </a>
 </p>
 
